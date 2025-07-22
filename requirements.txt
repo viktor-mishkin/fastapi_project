@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+pydantic
+aiosqlite
+pytest
+httpx
+flake8
+black
+isort
+mypy
